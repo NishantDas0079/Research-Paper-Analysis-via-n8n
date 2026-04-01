@@ -1,0 +1,11 @@
+Title: CRYSTALS-Kyber (summary)
+Source: https://pq-crystals.org/kyber/
+
+Abstract (extracted/condensed):
+CRYSTALS-Kyber is a module-lattice-based Key Encapsulation Mechanism (KEM) designed for post-quantum security. Based on the hardness of the Learning With Errors (LWE) problem in module lattices, Kyber provides efficient key generation, encapsulation, and decapsulation operations, and achieves IND-CCA security when combined with an appropriate transformation. Kyber is designed to offer a practical balance between security, performance, and compact key/ciphertext sizes, and it has been selected as a NIST Post-Quantum Cryptography finalist and later standardized candidate for general-purpose public-key encryption and key-establishment.
+
+Citation:
+- PQCRystals Kyber project page: https://pq-crystals.org/kyber/
+- Implementation and specification repository: https://github.com/pq-crystals/kyber
+
+Note: Abstract above is a concise extraction/condensation from the Kyber project/specification pages (PQCRystals). For the original paper and full abstract, see the references on the project page.
